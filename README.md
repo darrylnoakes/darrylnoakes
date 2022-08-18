@@ -6,6 +6,19 @@ Developer and student in Jamaica, W.I.
 
 [![Darryl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darrylnoakes&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+## Pinned Repos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vuejs&repo=core&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vueuse&repo=vueuse)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vitejs&repo=vite)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jakearchibald&repo=idb&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ionic-team&repo=ionic-framework)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iconify&repo=iconify)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gvergnaud&repo=ts-pattern)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valinet&repo=ExplorerPatcher)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=PowerToys)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=veler&repo=DevToys)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Contact/Connect
 
 <p>
