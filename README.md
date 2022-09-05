@@ -4,7 +4,9 @@ Developer and student in Jamaica, W.I.
 
 ## GitHub Stats
 
-[![Darryl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darrylnoakes&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+Public stats:
+
+[![Darryl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darrylnoakes&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Pinned Repos
 
