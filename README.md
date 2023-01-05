@@ -18,7 +18,10 @@ Languages:
 - Python (rusty)
 - Rust (learning)
 
-I use Vue and that ecosystem. I have tried out Svelte, and am interested in one day getting around to playing with Solid. Looking forward to trying out Astro.
+I use Vue and that ecosystem.
+My primary UI framework is Ionic.
+
+I have tried out Svelte, and am interested in one day getting around to playing with Solid. Looking forward to trying out Astro.
 
 ## Other Interests
 
