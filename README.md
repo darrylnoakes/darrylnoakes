@@ -1,6 +1,30 @@
 # Darryl Noakes
 
-Developer and student in Jamaica, W.I.
+Student in Jamaica, W.I.
+
+My main hobby is programming (web and embedded).
+
+## Programming
+
+I tend to like the theoretical side of things quite a bit, especially in programming: architecture, algorithms, etc. And yes, I love math.
+And I am interested in applying functional concepts more to my general programming.
+
+Languages:
+
+- JavaScript/TypeScript
+- HTML
+- CSS (including Sass/SCSS)
+- C++ (for embedded devices)
+- Python (rusty)
+- Rust (learning)
+
+I use Vue and that ecosystem. I have tried out Svelte, and am interested in one day getting around to playing with Solid. Looking forward to trying out Astro.
+
+## Other Interests
+
+I do electronics and general making.
+
+I play drums, am learning bass guitar, and dabble on the piano and accordion. I also like the theoretical side of music.
 
 ## GitHub Stats
 
