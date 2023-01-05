@@ -4,7 +4,7 @@ Developer and student in Jamaica, W.I.
 
 ## GitHub Stats
 
-Public stats:
+Public stats (I am working mostly on a private project):
 
 [![Darryl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darrylnoakes&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -21,7 +21,7 @@ Public stats:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=PowerToys)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=veler&repo=DevToys)](https://github.com/anuraghazra/github-readme-stats)
 
-## Contact/Connect
+## Contact
 
 <p>
   <a href="https://stackoverflow.com/users/15261914" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15261914" height="30" width="40" /></a>
