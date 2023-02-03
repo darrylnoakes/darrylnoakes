@@ -1,6 +1,6 @@
 # Darryl Noakes
 
-Student in Jamaica, W.I.
+Male student in Jamaica, W.I.
 
 My main hobby is programming (web and embedded).
 
