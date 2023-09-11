@@ -1,13 +1,13 @@
 # Darryl Noakes
 
-Male student in Jamaica, W.I.
+Male in Jamaica, W.I.
 
 My main hobby is programming (web and embedded).
 
 ## Programming
 
 I tend to like the theoretical side of things quite a bit, especially in programming: architecture, algorithms, etc. And yes, I love math.
-And I am interested in applying functional concepts more to my general programming.
+And I am trying to apply functional programming concepts more to my general programming.
 
 Languages:
 
@@ -21,7 +21,7 @@ Languages:
 I use Vue and that ecosystem.
 My primary UI framework is Ionic.
 
-I have tried out Svelte, and am interested in one day getting around to playing with Solid. Looking forward to trying out Astro.
+I have tried out Svelte, and am interested in one day getting around to playing with Solid. Loved what little I've done with Astro.
 
 ## Other Interests
 
@@ -31,7 +31,7 @@ I play drums, am learning bass guitar, and dabble on the piano and accordion. I 
 
 ## GitHub Stats
 
-Public stats (I am working mostly on a private project):
+Public stats (I work mostly on private projects):
 
 [![Darryl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darrylnoakes&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
