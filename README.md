@@ -2,25 +2,30 @@
 
 Male in Jamaica, W.I.
 
-My main hobby is programming (specifically, web development).
+My main hobby is software development (specifically, web development).
 
-## Programming
+## Software Development
 
-I tend to like the theoretical side of things quite a bit, especially in programming: architecture, algorithms, etc. And yes, I love math.
-And I am trying to apply functional programming concepts more to my general programming.
+I tend to like the theoretical side of things quite a bit, especially in programming: architecture, algorithms, etc. I enjoy applying functional programming concepts to all areas of programming. And yes, I love math.
 
 Languages:
 
 - JavaScript/TypeScript
 - HTML
 - CSS (including Sass/SCSS)
-- C++ (for embedded devices)
+- PHP
+- Liquid
+
+Also:
+- C++ (for embedded devices; rusty)
 - Python (rusty)
 - Rust (learning)
 
 I use Vue and that ecosystem. My primary UI framework is Ionic.
 
 I have tried out Svelte, and am interested in one day getting around to playing with Solid. Loved what little I've done with Astro.
+
+I have experience with Shopify and that ecosystem, working on themes and developing custom apps.
 
 ## Other Interests
 
