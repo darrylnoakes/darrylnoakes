@@ -2,7 +2,7 @@
 
 Male in Jamaica, W.I.
 
-My main hobby is programming (web and embedded).
+My main hobby is programming (specifically, web development).
 
 ## Programming
 
@@ -18,8 +18,7 @@ Languages:
 - Python (rusty)
 - Rust (learning)
 
-I use Vue and that ecosystem.
-My primary UI framework is Ionic.
+I use Vue and that ecosystem. My primary UI framework is Ionic.
 
 I have tried out Svelte, and am interested in one day getting around to playing with Solid. Loved what little I've done with Astro.
 
